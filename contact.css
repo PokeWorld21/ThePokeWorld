@@ -1,0 +1,39 @@
+.name{
+    color: yellow;
+    background-color:black;
+    font-family:fantasy;
+    font-size:2vw;
+    text-align: center;
+}
+.name:hover{
+    color: green;
+}
+.form{
+     width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+  background-color:lightgray;
+    
+}
+.back{
+    background-color: black;
+    text-align: center;
+}
+.back a{
+    text-decoration: none;
+    color: yellow;
+    background-color: black;
+    font-family: fantasy;
+    font-size:2vw;
+}
+.back a:hover{
+    color: green;
+}
+.button{
+    background-color: red;
+    text-align: center;
+    text-decoration: none;
+}
