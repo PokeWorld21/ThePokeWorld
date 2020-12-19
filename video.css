@@ -1,7 +1,7 @@
 .head{
     background-color:yellow;
     color:green;
-    font-family:fantasy;
+    font-family: 'Fugaz One', cursive;
     font-size: 3vw;
     text-align: center;
 }
@@ -10,7 +10,7 @@
     color: green;
     background-color: yellow;
     font-size:3vw;
-    font-family: fantasy;
+    font-family: 'Fugaz One', cursive;
 }
 .head:hover{
     color: rgb(173, 171, 151);

@@ -7,7 +7,7 @@
 }
 .lin>a{
     text-decoration:none;
-    font-family: fantasy;
+    font-family: 'Fugaz One', cursive;
     color:green;
     font-size:3vw;    
 }
@@ -19,7 +19,7 @@ a:hover{
     width:98.75vw;   
 }
 .message{
-    font-family: fantasy;
+    font-family: 'Fugaz One', cursive;
     color:green;
     background-color:orange;
     height:3vw;
@@ -31,7 +31,7 @@ a:hover{
     color:palegreen;
 }
 .content{
-    font-family:fantasy;
+    font-family: 'Fugaz One', cursive;
     color: rgb(148, 223, 148);
     text-align: center;
     font-size:1.8vw;
@@ -40,7 +40,7 @@ a:hover{
     padding:1vw;
 }
 .check{
-    font-family: fantasy;
+    font-family: 'Fugaz One', cursive;
     color:green;
     background-color:orange;
     height:3vw;
@@ -57,7 +57,7 @@ a:hover{
     float: right;
 }
 .copyright{
-    font-family: fantasy;
+    font-family: 'Fugaz One', cursive;
     color:green;
     height:3vw;
     text-align:center;

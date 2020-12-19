@@ -10,8 +10,7 @@
 .head{
     color: rgb(236, 234, 214);
     background-color: grey;
-    font-family: fantasy;
-    font-size: 3vw;
+    font-family: 'Fugaz One', cursive;    font-size: 3vw;
     text-align: center;
 }
 .head:hover{
@@ -26,7 +25,7 @@
     color: lawngreen;
     background-color:rgb(0, 0, 0);
     font-size:3vw;
-    font-family: fantasy;
+    font-family: 'Fugaz One', cursive;
 }
 .back{
     background-color: grey;
@@ -37,7 +36,7 @@
     color:rgb(236, 234, 214);
     background-color:grey;
     font-size:3vw;
-    font-family: fantasy;
+    font-family: 'Fugaz One', cursive;
     }
 .back a:hover{
     color: lemonchiffon;
