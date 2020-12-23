@@ -38,33 +38,8 @@ a:hover{
     font-style:bold;
     background-color: rgb(0, 0, 0);
     padding:1vw;
-    }
- .video1{
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
 }
-.video1 iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
- .video2{
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-}
-.video2 iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
+ 
 .check{
     font-family: 'Fugaz One', cursive;
     color:green;
