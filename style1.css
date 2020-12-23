@@ -50,12 +50,6 @@ a:hover{
 }
 .check:hover{
     color:palegreen;
-}    
-.video1{
-    float: left;
-}
-.video2{
-    float: right;
 }
 .copyright{
     font-family: 'Fugaz One', cursive;
@@ -67,4 +61,17 @@ a:hover{
 }
 .copyright:hover{
     color:palegreen;
+}
+.video1{
+position: relative;
+width: 100%;
+padding-bottom: 56.25%;
+height: 0;
+}
+.video1 iframe{
+position: absolute;
+top:0;
+left: 0;
+width: 100%;
+height: 100%;
 }
